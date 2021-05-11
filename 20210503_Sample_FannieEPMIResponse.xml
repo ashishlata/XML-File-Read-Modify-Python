@@ -1,0 +1,14 @@
+<BB_DATA>
+   <BB_METADATA>
+       <EventId>"4229026"</EventId>
+       <MessageType>"Response"</MessageType>
+       <EventType>"MI Application"</EventType>
+       <EventStartTime>"2021-05-05 11:33:41.414"</EventStartTime>
+       <MessageTimeStamp>"2020-12-08"</MessageTimeStamp>
+       <MIApplicationType>"N/A"</MIApplicationType>
+       <MIVersion>"2.3.1"</MIVersion>
+       <MILenderIdentifier>"080900492"</MILenderIdentifier>
+       <ProfileName>"ashi_EPMI_BulkMI"</ProfileName>
+       <MIBulkRequest>"True"</MIBulkRequest>
+   </BB_METADATA>
+</BB_DATA>
